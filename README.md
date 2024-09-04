@@ -15,3 +15,7 @@ Este projeto é uma API REST simples desenvolvida em Java com Spring Boot. A API
 - **Spring Data JPA**
 - **H2 Database (para testes)**
 - **Maven**
+
+
+
+http://localhost:8080/h2-console
